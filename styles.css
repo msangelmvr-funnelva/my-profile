@@ -187,7 +187,7 @@ h1.hero-title {
     text-decoration: underline;
 }
 
-.custom-link:hover
+.custom-link:hover {
     color: purple;
 }
 
